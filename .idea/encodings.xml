@@ -6,7 +6,19 @@
     <file url="file://$PROJECT_DIR$/currency-exchange-service-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/currency-exchange-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/currency-exchange-service2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker/currency-conversion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker/currency-exchange-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker/naming-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kubernetes/currency-conversion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kubernetes/currency-exchange-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/limits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/00.limits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/01.currency-exchange-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/02.currency-conversion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/03.naming-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/04.api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/05.spring-cloud-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/naming-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java" charset="UTF-8" />
   </component>

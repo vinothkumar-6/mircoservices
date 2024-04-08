@@ -12,6 +12,18 @@
         <option value="$PROJECT_DIR$/naming-server/pom.xml" />
         <option value="$PROJECT_DIR$/currency-exchange-service2/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/docker/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/docker/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/docker/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/docker/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/kubernetes/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/kubernetes/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/00.limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/01.currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/02.currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/03.naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/04.api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/05.spring-cloud-config-server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -19,7 +31,6 @@
         <option value="$PROJECT_DIR$/currency-exchange-service-2/pom.xml" />
       </set>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

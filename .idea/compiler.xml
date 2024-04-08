@@ -6,26 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="naming-server (1) (com.getajob.microservices)" />
         <module name="currency-conversion-service" />
+        <module name="currency-exchange-service (1) (com.getajob.microservices)" />
+        <module name="api-gateway (1) (com.getajob.microservices)" />
+        <module name="currency-conversion-service (1) (com.getajob.microservices)" />
         <module name="spring-cloud-config-server" />
         <module name="api-gateway" />
         <module name="currency-exchange-service (1)" />
+        <module name="currency-exchange-service" />
         <module name="limits-service" />
         <module name="naming-server" />
+        <module name="currency-conversion-service (1)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="currency-exchange-service" target="21" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
+      <module name="api-gateway (1) (com.getajob.microservices)" options="-parameters" />
       <module name="currency-conversion-service" options="-parameters" />
+      <module name="currency-conversion-service (1)" options="-parameters" />
+      <module name="currency-conversion-service (1) (com.getajob.microservices)" options="-parameters" />
       <module name="currency-exchange-service" options="-parameters" />
       <module name="currency-exchange-service (1)" options="-parameters" />
+      <module name="currency-exchange-service (1) (com.getajob.microservices)" options="-parameters" />
       <module name="limits-service" options="-parameters" />
       <module name="naming-server" options="-parameters" />
+      <module name="naming-server (1) (com.getajob.microservices)" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />
     </option>
   </component>
