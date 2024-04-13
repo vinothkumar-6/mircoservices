@@ -66,7 +66,4 @@ Building microservices with REST API, Spring Boot, Docker, and Kubernetes offers
 Your contributions and feedback are valuable for continuously improving this guide. If you have any suggestions, improvements, or questions, please feel free to open an issue or submit a pull request.
 
 ## References
-- [Microservices with Spring documentation](https://spring.io/blog/2015/07/14/microservices-with-spring)
-- [Docker Documentation](https://docs.docker.com/get-started/overview/)
-- [Kubernetes Documentation](https://v1-28.docs.kubernetes.io/docs/home/)
 - [Udemy Official Website](https://www.udemy.com/topic/microservices/)
